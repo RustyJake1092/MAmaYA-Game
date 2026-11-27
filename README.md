@@ -1,4 +1,6 @@
-# Pixel World
+# MAmaYA-Game
+
+## Pixel World
 
 A small C++17 and raylib sandbox-game foundation. The world is generated deterministically as the player explores, so terrain can be queried at any horizontal coordinate without storing an entire map. Player edits are kept as tile overrides.
 
